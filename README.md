@@ -1,2 +1,0 @@
-# satoshi
-Satoshi Project
